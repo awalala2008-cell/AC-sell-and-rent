@@ -1,0 +1,9 @@
+style.css
+
+section.top-page {
+    background: url("/images/pagedaccueil.png");
+    background-size: cover;
+    background-position: center;
+    background-color: red;
+    height: 100vh;
+}
